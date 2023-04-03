@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358382819036",
+    "project_id": "zoody-d5cd6",
+    "storage_bucket": "zoody-d5cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358382819036:android:acd84f09de4c1adf708619",
+        "android_client_info": {
+          "package_name": "com.example.zoody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358382819036-1p7fcl4ndo45r758dd427uh43eb8v49f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJtgkMbv3XHTLfySCrkqtKvmFNgH4ZMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358382819036-1p7fcl4ndo45r758dd427uh43eb8v49f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
